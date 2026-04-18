@@ -6,7 +6,7 @@ from books.models import Book
 from .serializers import BookSerializer
 
 
-# Create your views here.
+
 class BookListView(APIView):
     def get(self, request):
         books = Book.objects.all()
