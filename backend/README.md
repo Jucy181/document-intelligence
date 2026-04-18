@@ -42,12 +42,12 @@ Response:
   "query": "What is Django?",
   "answer": "Search function not implemented yet. You asked: What is Django?"
 }
-🛠 Tech Stack
+ Tech Stack
 Python
 Django
 Django REST Framework
 📌 Project Status
 Backend API: ✅ Completed
-RAG Logic: ⚠️ Placeholder (not full AI yet)
+RAG Logic: Placeholder (not full AI yet)
 Vector Database: ❌ Not implemented
 Frontend: ❌ Not included
